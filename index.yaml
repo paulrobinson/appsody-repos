@@ -11,5 +11,5 @@ projects:
     maintainers:
     - probinso@redhat.com 
     urls:
-    - https://github.com/paulrobinson/appsody-repos/raw/master/quarkus-stack-0.1.0.zip
+    - https://github.com/paulrobinson/appsody-repos/raw/master/quarkus-0.1.0.tar.gz
     version: 0.1.0
